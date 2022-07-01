@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## 凌致新的个人主页
 
-You can use the [editor on GitHub](https://github.com/1069066484/1069066484.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 基本信息
+姓名：凌致新              性别：男
+手机/微信：13262792461    邮箱：1069066484@qq.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
