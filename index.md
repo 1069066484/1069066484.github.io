@@ -1,5 +1,5 @@
 ## 凌致新的个人主页
-![个人相片](https://github.com/1069066484/1069066484.github.io/blob/main/onnet.jpg)
+![个人相片](onnet.jpg)
 ### 基本信息
 姓名：凌致新 &emsp;  &emsp; &emsp; &emsp; &emsp; &nbsp;  性别：男 <br/>
 手机/微信：13262792461  &nbsp; &nbsp; &nbsp;  邮箱：1069066484@qq.com
