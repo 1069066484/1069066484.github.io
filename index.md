@@ -1,8 +1,18 @@
-## 凌致新的个人主页
-![个人相片](onnet.jpg)
-### 基本信息
-姓名：凌致新 &emsp;  &emsp; &emsp; &emsp; &emsp; &nbsp;  性别：男 <br/>
-手机/微信：13262792461  &nbsp; &nbsp; &nbsp;  邮箱：1069066484@qq.com
+<table border="0">
+  <tr>
+    <td width="65%">
+      <h1>凌致新</h1>
+     <p><b>性别：男</b></p>
+      <p><b>手机/微信：13262792461</b></p>
+      <p><b>邮箱：1069066484@qq.com</b></p>
+    </td>
+    <td width="35%">
+      <img src="/onnet.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+
+
 
 ### 教育经历
 #### 本科（2016.9-2020.6）
