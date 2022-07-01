@@ -1,5 +1,5 @@
 ## 凌致新的个人主页
-![]((https://github.com/1069066484/1069066484.github.io/blob/main/onnet.jpg))
+![个人相片]((https://github.com/1069066484/1069066484.github.io/blob/main/onnet.jpg))
 ### 基本信息
 姓名：凌致新 &emsp;  &emsp; &emsp; &emsp; &emsp; &nbsp;  性别：男 <br/>
 手机/微信：13262792461  &nbsp; &nbsp; &nbsp;  邮箱：1069066484@qq.com
@@ -58,5 +58,13 @@
  - [调研扩散模型在图像生成任务中的研究](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B68-A_Simple_Survey_on_Diffusion_Models_for_Image_Synthesis_Since_2020.pdf)
  - 参与构建自动配色项目，提取图片中显著物体和文本的配色。
 
+### 专业技能（从左到右由相关性排序）：
+ - 计算机视觉、图像检索、全景图片表示学习、目标检测、深度学习、3D物体重建、人工智能、机器学习、OCR
+ - Python、C++、C语言、Java、Qt、C#
+ - Pytorch、OpenCV、TensorFlow、OpenGL、Unity
 
 
+### 实践经历：
+ - 2021.3-2021.6，作为主要负责人参与烛心社福建蕉坑小学远程阅读项目。
+ - 2021.7-2021.8，参与烛心社福建蕉坑小学支教项目，负责宣传小组的工作。
+ - 2021.9-至今，担任复旦大学大型公益性社团烛心社社长，作为社长组织过多个等大型公益性项目，包括上海公益行、虹口社区服务、福建远程阅读等。
