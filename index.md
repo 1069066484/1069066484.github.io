@@ -1,8 +1,10 @@
 ## 凌致新的个人主页
 
 ### 基本信息
-姓名：凌致新              性别：男
-手机/微信：13262792461    邮箱：1069066484@qq.com
+| 姓名：  | 凌致新 | 性别：  | 男 |
+| 手机/微信：  | 13262792461 | 邮箱：  | 1069066484@qq.com |
+
+    
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
