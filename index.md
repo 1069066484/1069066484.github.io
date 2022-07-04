@@ -27,7 +27,7 @@
 
 ### 学术项目
 #### 已发表的论文
-[Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou*. *ACMMM2022 (CCF B)*
+[Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou*. *ECCV2022 (CCF B)*
  - 提出以图像为条件的素描重建来解决细粒度草图-图像检索问题。
  - 我们提出一套无监督打乱素描线条的方法，并以成对的图像为条件，要求网络重建出原素描。
  - 我们提出跨风格的双锚点对比损失。
