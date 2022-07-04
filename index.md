@@ -44,7 +44,8 @@
  - 我负责细化模型和实验，以及部分论文写作
  
   [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B69-ECCV22_Few_shot_Single_view_3D_Reconstruction_with_Memory_Prior_Contrastive_Network.pdf) Zhen Xing, Yijiang Chen, **Zhixin Ling**, Xiangdong Zhou*, Yu Xiang. *ECCV2022 (CCF B)*
- - 用先验对比学习解决三维物体重建问题。
+ - 在三维物体重建的过程中加入形状先验，更好地控制重建形状。
+ - 提出3D敏感的对比学习损失，高效地同时学习批内所有正样本之间的距离。
 
 
  
