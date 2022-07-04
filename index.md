@@ -43,6 +43,11 @@
  - 实现多特征空间可以互补，综合各空间距离可以有效提高检索性能。
  - 我负责细化模型和实验，以及部分论文写作
  
+  [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B69-ECCV22_Few_shot_Single_view_3D_Reconstruction_with_Memory_Prior_Contrastive_Network.pdf) Zhen Xing, Yijiang Chen, **Zhixin Ling**, Xiangdong Zhou*, Yu Xiang. *ECCV2022 (CCF B)*
+ - 用先验对比学习解决三维物体重建问题。
+
+
+ 
 [DoveNet: Deep Image Harmonization via Domain Verification.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B63-CVPR2020_DoveNet_Deep_Image_Harmonization_via_Domain_Verification.pdf) Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, **Zhixin Ling**, Weiyuan Li, Liqing Zhang\*. *CVPR2020 (CCF A)*
  - 提出图像和谐化方法和和谐化数据集。
  - 我负责数据集的标注、筛选和对齐。
