@@ -79,6 +79,8 @@
  - Python、C++、C语言、Java、Qt、C#
  - Pytorch、OpenCV、TensorFlow、OpenGL、Unity
 
+### 工作兴趣：
+ - 目标检测、全景图片、类AlphaGo系统、图像生成、扩散模型、三维重建
 
 ### 实践经历：
  - 2021.3-2021.6，作为主要负责人参与烛心社福建蕉坑小学远程阅读项目。
