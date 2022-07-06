@@ -54,7 +54,7 @@
  - 我负责数据集的标注、筛选和对齐。
 
 #### 投稿中的论文
-[PanoSwin: A Panoramic Shift Windowing Scheme for Panoramic Tasks.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Xiangdong Zhou\*.
+[PanoSwin: A Panoramic Shift Windowing Scheme for Panoramic Tasks.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B65-PanoSwin_A_Panoramic_Shift_Windowing_Scheme_for_Panoramic_Tasks.pdf) **Zhixin Ling**, Xiangdong Zhou\*.
  - 将SwinTransformer适应于全景任务(检测、分类、布局等)。
  - 针对全景图片，提出了新的滑动窗口方法以及位置编码来解决畸变问题。
  - 提出把平面知识迁移到全景图片的方法，先把平面知识迁移到赤道，再用通过旋转一致性把赤道知识迁移到两极。
