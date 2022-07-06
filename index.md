@@ -27,7 +27,7 @@
 
 ### 学术项目
 #### 已发表的论文
-[Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou*. *ECCV2022 (CCF B)*
+[Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou\*. *ECCV2022 (CCF B)*
  - 提出以图像为条件的素描重建来解决细粒度草图-图像检索问题。
  - 我们提出一套无监督打乱素描线条的方法，并以成对的图像为条件，要求网络重建出原素描。
  - 我们提出跨风格的双锚点对比损失。
@@ -43,18 +43,18 @@
  - 实现多特征空间可以互补，综合各空间距离可以有效提高检索性能。
  - 我负责细化模型和实验，以及部分论文写作
  
-  [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B69-ECCV22_Few_shot_Single_view_3D_Reconstruction_with_Memory_Prior_Contrastive_Network.pdf) Zhen Xing, Yijiang Chen, **Zhixin Ling**, Xiangdong Zhou*, Yu Xiang. *ECCV2022 (CCF B)*
+  [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B69-ECCV22_Few_shot_Single_view_3D_Reconstruction_with_Memory_Prior_Contrastive_Network.pdf) Zhen Xing, Yijiang Chen, **Zhixin Ling**, Xiangdong Zhou\*, Yu Xiang.  *ECCV2022 (CCF B)*
  - 在三维物体重建的过程中加入形状先验，更好地控制重建形状。
  - 提出3D敏感的对比学习损失，高效地同时学习批内所有正样本之间的距离。
 
 
  
-[DoveNet: Deep Image Harmonization via Domain Verification.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B63-CVPR2020_DoveNet_Deep_Image_Harmonization_via_Domain_Verification.pdf) Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, **Zhixin Ling**, Weiyuan Li, Liqing Zhang\*. *CVPR2020 (CCF A)*
+[DoveNet: Deep Image Harmonization via Domain Verification.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B63-CVPR2020_DoveNet_Deep_Image_Harmonization_via_Domain_Verification.pdf) Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, **Zhixin Ling**, Weiyuan Li, Liqing Zhang\*.  *CVPR2020 (CCF A)*
  - 提出图像和谐化方法和和谐化数据集。
  - 我负责数据集的标注、筛选和对齐。
 
 #### 投稿中的论文
-[PanoSwin: A Panoramic Shift Windowing Scheme for Panoramic Tasks.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Xiangdong Zhou*.
+[PanoSwin: A Panoramic Shift Windowing Scheme for Panoramic Tasks.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Xiangdong Zhou\*.
  - 将SwinTransformer适应于全景任务(检测、分类、布局等)。
  - 针对全景图片，提出了新的滑动窗口方法以及位置编码来解决畸变问题。
  - 提出把平面知识迁移到全景图片的方法，先把平面知识迁移到赤道，再用通过旋转一致性把赤道知识迁移到两极。
@@ -75,7 +75,7 @@
  - 参与构建自动配色项目，提取图片中显著物体和文本的配色。
 
 ### 专业技能（从左到右由相关性排序）：
- - 计算机视觉、图像检索、全景图片表示学习、目标检测、深度学习、3D物体重建、人工智能、机器学习、OCR
+ - 计算机视觉、图像检索、全景图片表示学习、目标检测、深度学习、对比学习、知识蒸馏、3D物体重建、人工智能、机器学习、OCR
  - Python、C++、C语言、Java、Qt、C#
  - Pytorch、OpenCV、TensorFlow、OpenGL、Unity
 
