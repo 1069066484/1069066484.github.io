@@ -70,14 +70,14 @@
 
  
 [搭建支持纹理压缩的全景图片展示系统](https://github.com/1069066484/PanoView)
-1.用HTML+JS+THREE在前端渲染全景图片。 
-2.后端用python封装了编译好的basis压缩算法，减少全景图片传输时间。
-3. 项目地址见https://github.com/1069066484/PanoView。
+ - 用HTML+JS+THREE在前端渲染全景图片。 
+ - 后端用python封装了编译好的basis压缩算法，减少全景图片传输时间。
+ - 项目地址见https://github.com/1069066484/PanoView。
 
 [用Qt5框架(C++ & QML)实现双人贪吃蛇游戏](https://github.com/1069066484/DoubleSnake)
-1. 分别设定两只贪吃蛇不同速度、难度和角色。
-2. 实现自带地图编辑器。
-3. 实现不同的AI, PvP和局域网联机。
+ - 分别设定两只贪吃蛇不同速度、难度和角色。
+ - 实现自带地图编辑器。
+ - 实现不同的AI, PvP和局域网联机。
 
 
 
