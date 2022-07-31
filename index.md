@@ -83,7 +83,7 @@
 
 
 ### 实习经验
-#### 2022.05 - 至今, 字节跳动, 计算机视觉实习生
+#### 2022.04 - 至今, 字节跳动, 计算机视觉实习生
  - [调研扩散模型在图像生成任务中的研究](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B68-A_Simple_Survey_on_Diffusion_Models_for_Image_Synthesis_Since_2020.pdf)
  - 参与构建自动配色数据集项目，提取图片中显著物体和文本的配色。
  - 参与广告卖点自动生成项目，根据海报和标题自动生成广告卖点。
