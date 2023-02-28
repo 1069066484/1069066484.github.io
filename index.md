@@ -27,6 +27,12 @@
 
 ### 科研项目
 #### 已发表的论文
+[PanoSwin: a Pano-style Swin Transformer for Panorama Understanding.](https://github.com/1069066484/PeronalOpenFiles/raw/main/%E9%99%84%E4%BB%B610-CVPR23_PanoSwin_A_Pano-style_Swin_Transformer_for_Panorama_Understanding.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou\*, Manliang Cao, Guichun Zhou. *CVPR2023 (CCF A)*
+ - 将SwinTransformer适应于全景任务(检测、分类、布局等)。
+ - 针对全景图片，提出了新的滑动窗口方法以及位置编码来解决全景图片中窗口的邻接关系被破坏的问题。
+ - 针对全景图片，提出了俯仰注意力机制，解决了全局畸变问题。
+ - 提出了从平面图片到全局图片的知识蒸馏方案。
+
 [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B64-Conditional_Stroke_Recovery_for_Fine_Grained_Sketch_Based_Image_Retrieval.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou\*. *ECCV2022 (CCF B)*
  - 提出以图像为条件的素描重建来解决细粒度草图-图像检索问题。
  - 我们提出一套无监督打乱素描线条的方法，并以成对的图像为条件，要求网络重建出原素描。
@@ -54,11 +60,6 @@
  - 我负责数据集的标注、筛选和对齐。
 
 #### 投稿中的论文
-[PanoSwin: A Panoramic Shift Windowing Scheme for Panoramic Tasks.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B65-PanoSwin_A_Panoramic_Shift_Windowing_Scheme_for_Panoramic_Tasks.pdf) **Zhixin Ling**, Xiangdong Zhou\*.
- - 将SwinTransformer适应于全景任务(检测、分类、布局等)。
- - 针对全景图片，提出了新的滑动窗口方法以及位置编码来解决畸变问题。
- - 提出把平面知识迁移到全景图片的方法，先把平面知识迁移到赤道，再用通过旋转一致性把赤道知识迁移到两极。
-
 [SKP: Selective Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B66-Selective_Knowledge_Preservation_for_Zero_Shot_sketch_based_image_retrieval.pdf) **Zhixin Ling**, Jian Zhou, Xiangdong Zhou*.
  - 提出有选择性的多尺度导师学习方法解决零示例草图-图像检索问题。
  - 对图片进行多尺度的分割，选择出有目标物体的区域，高效地施加知识保留损失。
