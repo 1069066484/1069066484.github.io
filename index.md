@@ -63,7 +63,7 @@
    - 我负责数据集的标注、筛选和对齐。
 
 #### 投稿中的论文
-1. [SKP: Selective Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B66-Selective_Knowledge_Preservation_for_Zero_Shot_sketch_based_image_retrieval.pdf) **Zhixin Ling**, Jian Zhou, Xiangdong Zhou*.
+1. [SKP: Selective Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B66-Selective_Knowledge_Preservation_for_Zero_Shot_sketch_based_image_retrieval.pdf) **Zhixin Ling**, Jian Zhou, Xiangdong Zhou*.  ICCV23在投
    - 提出有选择性的多尺度导师学习方法解决零示例草图-图像检索问题。
    - 对图片进行多尺度的分割，选择出有目标物体的区域，高效地施加知识保留损失。
    - 提出SketchMix和RandomThickening两种草图数据增强方法。
