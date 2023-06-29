@@ -27,6 +27,22 @@
 核心绩点：3.60/4.00   &emsp; &emsp; &nbsp; &nbsp;  核心绩点排名：12/47 (25.53%)  <br/>
 荣誉：上海市优秀毕业生
 
+
+
+
+### 工作经验
+#### 2022.04 - 2022.10, 字节跳动, 计算机视觉实习生
+ - [调研扩散模型在图像生成任务中的研究](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B68-A_Simple_Survey_on_Diffusion_Models_for_Image_Synthesis_Since_2020.pdf)
+ - 参与构建自动配色数据集项目，提取图片中显著物体和文本的配色。
+ - 参与广告卖点自动生成项目，根据海报和标题自动生成广告卖点。
+
+#### 2023.03 - 2023.06, 灵均投资, 量化策略研究实习生
+ - 另类策略研究。
+
+#### 2023.07 - 至今, 度小满金融, 机器学习算法工程师
+ - 增长方向算法实现。
+
+
 ### 科研项目
 #### 已发表的论文
 1. [PanoSwin: a Pano-style Swin Transformer for Panorama Understanding.](https://github.com/1069066484/PeronalOpenFiles/raw/main/%E9%99%84%E4%BB%B610-CVPR23_PanoSwin_A_Pano-style_Swin_Transformer_for_Panorama_Understanding.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou\*, Manliang Cao, Guichun Zhou. *CVPR2023 (CCF A)*
@@ -82,20 +98,6 @@
    - 实现自带地图编辑器。
    - 实现不同的AI, PvP和局域网联机。
 
-
-
-
-### 工作经验
-#### 2022.04 - 2022.10, 字节跳动, 计算机视觉实习生
- - [调研扩散模型在图像生成任务中的研究](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B68-A_Simple_Survey_on_Diffusion_Models_for_Image_Synthesis_Since_2020.pdf)
- - 参与构建自动配色数据集项目，提取图片中显著物体和文本的配色。
- - 参与广告卖点自动生成项目，根据海报和标题自动生成广告卖点。
-
-#### 2023.03 - 2023.06, 灵均投资, 量化策略研究实习生
- - 另类策略研究。
-
-#### 2023.07 - 至今, 度小满金融, 机器学习算法工程师
- - 增长方向算法实现。
 
 ### 专业技能（从左到右由相关性排序）：
  - 计算机视觉、图像检索、全景图片表示学习、目标检测、深度学习、对比学习、图像和谐化、知识蒸馏、3D物体重建、人工智能、机器学习、OCR
