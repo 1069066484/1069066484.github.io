@@ -13,7 +13,7 @@
 </table>
 
 <!--  ### 近期业余兴趣 --> 
-<!--  ### 我最近打算做扩散模型相关的工作，希望可以在业余时间产出一篇高质量论文，有兴趣有想法的同学可以一起交流。 --> 
+<!--  ### ~~~~~扩散模型和金融大模型。 --> 
 
 
 ### 教育经历
@@ -32,19 +32,19 @@
 
 ### 工作经验
 #### 2022.04 - 2022.10, 字节跳动, 计算机视觉实习生
- - [调研扩散模型在图像生成任务中的研究](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B68-A_Simple_Survey_on_Diffusion_Models_for_Image_Synthesis_Since_2020.pdf)
- - 参与构建自动配色数据集项目，提取图片中显著物体和文本的配色。
- - 参与广告卖点自动生成项目，根据海报和标题自动生成广告卖点。
+ - 探索广告海报前景物体生成。
+ - 构建配色数据集项目，提取图片中背景和前景物体的配色。
+ - 实现广告海报文案检索，支持广告海报的合成。
 
 #### 2023.03 - 2023.06, 灵均投资, 量化策略研究实习生
- - 另类策略研究。
+ - 根据K线图，挖掘预测股票涨跌的深度学习因子。
 
 #### 2023.07 - 至今, 度小满金融, 机器学习算法工程师
- - 增长方向算法实现。
+ - 实现四个序列模型（征信报告序列模型、内部序列模型、埋点序列模型和APPLIST序列模型），支持多个业务需求。
+ - 实现多个业务模型，需求模型、放款预测模型、小微流水预测模型和年化风险预测模型。
 
 
 ### 科研项目
-#### 已发表的论文
 1. [PanoSwin: a Pano-style Swin Transformer for Panorama Understanding.](https://github.com/1069066484/PeronalOpenFiles/raw/main/%E9%99%84%E4%BB%B610-CVPR23_PanoSwin_A_Pano-style_Swin_Transformer_for_Panorama_Understanding.pdf) **Zhixin Ling**, Zhen Xing, Xiangdong Zhou\*, Manliang Cao, Guichun Zhou. *CVPR2023 (CCF A)*
    - 将SwinTransformer适应于全景任务(检测、分类、布局等)。
    - 针对全景图片，提出了新的滑动窗口方法以及位置编码来解决全景图片中窗口的邻接关系被破坏的问题。
@@ -65,20 +65,15 @@
    - 用双向解耦方法解决零示例草图-图像检索问题。
    - 把图像解耦为结构和外表特征，并把草图特征转化为结构特征。
    - 实现多特征空间可以互补，综合各空间距离可以有效提高检索性能。
-   - 我负责细化模型和实验，以及部分论文写作
+   - 负责细化模型和实验，以及部分论文写作
  
 5. [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B69-ECCV22_Few_shot_Single_view_3D_Reconstruction_with_Memory_Prior_Contrastive_Network.pdf) Zhen Xing, Yijiang Chen, **Zhixin Ling**, Xiangdong Zhou\*, Yu Xiang.  *ECCV2022 (CCF B)*
-   - 在三维物体重建的过程中加入形状先验，更好地控制重建形状。
-   - 提出3D敏感的对比学习损失，高效地同时学习批内所有正样本之间的距离。
-
 
  
 6. [DoveNet: Deep Image Harmonization via Domain Verification.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B63-CVPR2020_DoveNet_Deep_Image_Harmonization_via_Domain_Verification.pdf) Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, **Zhixin Ling**, Weiyuan Li, Liqing Zhang\*.  *CVPR2020 (CCF A)*
-   - 提出图像和谐化方法和和谐化数据集。
-   - 我负责数据集的标注、筛选和对齐。
 
-#### 投稿中的论文
-1. [SKP: Selective Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B66-Selective_Knowledge_Preservation_for_Zero_Shot_sketch_based_image_retrieval.pdf) **Zhixin Ling**, Jian Zhou, Xiangdong Zhou*.  ICCV23在投
+
+7. [SKP: Selective Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval.](https://github.com/1069066484/PeronalOpenFiles/blob/main/%E9%99%84%E4%BB%B66-Selective_Knowledge_Preservation_for_Zero_Shot_sketch_based_image_retrieval.pdf) **Zhixin Ling**, Jian Zhou, Xiangdong Zhou*.  在投
    - 提出有选择性的多尺度导师学习方法解决零示例草图-图像检索问题。
    - 对图片进行多尺度的分割，选择出有目标物体的区域，高效地施加知识保留损失。
    - 提出SketchMix和RandomThickening两种草图数据增强方法。
@@ -99,13 +94,13 @@
    - 实现不同的AI, PvP和局域网联机。
 
 
-### 专业技能（从左到右由相关性排序）：
- - 计算机视觉、图像检索、全景图片表示学习、目标检测、深度学习、对比学习、图像和谐化、知识蒸馏、3D物体重建、人工智能、机器学习、OCR
- - Python、C++、C语言、Java、Qt、C#
- - Pytorch、OpenCV、TensorFlow、OpenGL、Unity
-
+### 专业技能
+ - 时序模型、图像检索、目标检测、图像生成
+ - Python、C++、SQL、C
+ - Pytorch、PySpark、MapReduce、OpenCV
+ - 
 ### 工作兴趣：
- - 目标检测、全景图片、类AlphaGo系统、图像生成、扩散模型、三维重建、图像和谐化
+ - 目标检测、时序模型、全景图片、图像生成
 
 ### 实践经历：
  - 2021.3-2021.6，作为主要负责人参与烛心社福建蕉坑小学远程阅读项目。
